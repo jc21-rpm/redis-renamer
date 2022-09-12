@@ -4,8 +4,8 @@
 
 Name:           redis-renamer
 Version:        1.0.0
-Release:        1%{?dist}
-Summary:        Takes the keys from one Redis server/db and transfer them to another server/db 
+Release:        1
+Summary:        Takes the keys from one Redis server/db and transfer them to another server/db
 Group:          Applications/System
 License:        MIT
 URL:            https://github.com/%{gh_user}/%{name}
